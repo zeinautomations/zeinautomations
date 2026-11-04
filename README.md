@@ -110,8 +110,6 @@ print(me.philosophy())
 | **Content Automation** | AI content pipelines, bulk generation, social scheduling |
 | **n8n Workflows** | Multi-step automations, API integrations, webhook systems |
 | **AI Agents** | Custom GPT agents, LLM pipelines, chatbot integrations |
-| **Python Scripts** | SEO crawlers, scrapers (ToS-compliant), data processors |
-| **Chrome Extensions** | OSINT tools, SEO scanners, productivity extensions |
 | **Backlink Systems** | Reseller workflows, vendor management, outreach automation |
 
 </div>
@@ -139,7 +137,7 @@ print(me.philosophy())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeinautomations&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeinautomations&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -149,9 +147,13 @@ print(me.philosophy())
 
 <div align="center">
 
-[![Rankwox Card](https://github-readme-stats.vercel.app/api/pin/?username=zeinautomations&repo=rankwox-seo-tools&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=ffffff)](https://github.com/zeinautomations)
-&nbsp;
-[![n8n Workflows Card](https://github-readme-stats.vercel.app/api/pin/?username=zeinautomations&repo=n8n-automation-workflows&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6366F1&text_color=ffffff)](https://github.com/zeinautomations)
+| 🚀 Project | 🔧 Stack | 📌 Status |
+|:---|:---:|:---:|
+| **[Rankwox](https://rankwox.com)** — SEO & Automation Platform | Python · SEO | 🟢 Live |
+| **n8n Automation Workflows** — Reusable workflow library | n8n · API | 🔄 Building |
+| **SEO Python Toolkit** — Keyword & audit scripts | Python | 🔄 Building |
+| **AI Content Pipeline** — Bulk content automation | OpenAI · n8n | 🔄 Building |
+| **SaaS Builder Projects** — Custom tools & MVPs | JS · Python | 🔄 Building |
 
 </div>
 
